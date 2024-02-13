@@ -19,6 +19,7 @@ def logger(path):
     return __logger
 
 
+
 def test_2():
     paths = ('log_1.log', 'log_2.log', 'log_3.log')
 
